@@ -1,0 +1,1 @@
+This is my sample test extension. Do not install.
